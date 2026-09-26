@@ -192,14 +192,14 @@ NYC_Decarbonization_Optimization/
 │   ├── final_top20_priority_buildings.csv
 │   ├── top_15_priority_buildings.csv
 │   └── ghg_reduction_scenarios.csv
-├── R/
+├── ├── R/
 │   ├── 00_setup.R
-│   ├── R:01_ingest_clean.R
-│   ├── R:02_panel_eda.R
-│   ├── R:03_feature_engineering.R
-│   ├── R:04_ml_benchmark.R
-│   ├── R:05_underperformance.R
-│   └── R:06_final_summary.R
+│   ├── 01_ingest_clean.R
+│   ├── 02_panel_eda.R
+│   ├── 03_feature_engineering.R
+│   ├── 04_ml_benchmark.R
+│   ├── 05_underperformance.R
+│   └── 06_final_summary.R
 ├── report/
 │   ├── NYC_Decarbonization_Executive_Summary.Rmd
 │   ├── NYC_Decarbonization_Executive_Summary.html
