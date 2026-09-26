@@ -1,0 +1,4 @@
+scenario,closure_rate,estimated_ghg_reduction,share_of_high_priority_ghg
+10% gap closure,0.1,118846.99865264946,4.827007193594079
+25% gap closure,0.25,297117.49663162365,12.067517983985198
+50% gap closure,0.5,594234.9932632473,24.135035967970396

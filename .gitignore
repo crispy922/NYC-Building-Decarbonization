@@ -1,0 +1,18 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# Local README preview
+README.html
+
+# Temporary files
+*.tmp
+*.log
+
+# Raw / large source datasets
+data/raw/

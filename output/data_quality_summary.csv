@@ -1,0 +1,8 @@
+metric,value
+Raw records,103259
+Records after deduplication,102484
+Valid ML records,89391
+Valid carbon records,89393
+Valid retrofit records,89368
+Balanced panel buildings,21649
+Balanced panel records,64947
